@@ -1,0 +1,19 @@
+How the Web Works:
+
+All computers connected to the web have certain functions. 
+There are servers which hold all of the information for different websites, and then client 
+computers that most of us use during our day to day activities to browse the internet.
+Client computers use wi-fi, hotspots, and routers to connect to the internet and servers.
+Clients start out by sending a requests to the servers for information so that they need when
+someone wants to visit a website. The server then accepts the requests and begins searching
+through everything to find and compile a response for the user. The server finishes processing 
+and then sends the response back to the client so that the website can be viewed on the client 
+computer.
+
+There are several steps involved in accessing a website on browser. First,there is a DNS that allows websites 
+to be connected to nicknames instead of presenting the web addressas a series of numbers. 
+The DNS has the website's real address, and then can return the website back in a way that we would 
+recognize; such as an HTTP address.  Then the browser sends an HTTP request, which asks the server to return
+the website to the client computer so that the user can view it. Once the server has finished the request, it then
+sends back all of the information in a lot of little chunks or packets that are then reassembled in the same
+order to make the webpage visible the way that you want to see it!
